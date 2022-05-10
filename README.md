@@ -4,19 +4,19 @@
 ### Add teacher page
 
 
-![Add page](assect/img/addPage.png)
+![Add page](assect/img/website/addPage.png)
 
 
 ### profile page
 
 
-![profile page](assect/img/profile.png)
+![profile page](assect/img/website/profile.png)
 
 
 ### All Staff Page page
 
 
-![All Stuff page](assect/img/allStuffPage.png)
+![All Stuff page](assect/img/website/allStuffPage.png)
 
 
 
